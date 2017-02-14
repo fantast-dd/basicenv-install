@@ -1,0 +1,12 @@
+*.swp
+tags
+*.pyc
+*.egg-info
+.pypirc
+.vagrant/
+.idea/
+build/
+dist/
+*.vim
+.DS_Store
+.idea
